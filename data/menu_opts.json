@@ -1,0 +1,15 @@
+{
+    "nombreApp": "Foraneos",
+    "rutas": [
+        {
+            "ruta": "construccion",
+            "icon": "accessibility",
+            "texto": "Construccion"
+        },
+        {
+            "ruta": "mapa",
+            "icon": "person_pin_circle",
+            "texto": "Prueba Mapa"
+        }
+    ]
+}

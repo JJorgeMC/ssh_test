@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 
-class Contruccion extends StatelessWidget {
-  @override 
+class ConstruccionPage extends StatelessWidget {
+  @override
   Widget build(BuildContext context) {
-    return Scaffold(endDrawer: Drawer(
+    return Scaffold(
+        endDrawer: Drawer(
           child: Container(
             width: 10.00,
             child: Column(
